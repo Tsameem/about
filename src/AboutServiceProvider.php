@@ -5,7 +5,7 @@ namespace Tsameem\About;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Schema;
 
-class ContactServiceProvider extends ServiceProvider
+class AboutServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap any application services.

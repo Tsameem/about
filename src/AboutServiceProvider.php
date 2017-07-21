@@ -18,7 +18,7 @@ class AboutServiceProvider extends ServiceProvider
             // publishing all views
             __DIR__.'/views' => base_path('resources/views/tsameem'),
             // publishing all controllers
-            __DIR__.'/controllers' => base_path('app/Http/Controllers'),
+            __DIR__.'/controllers' => base_path('app/Http/Controllers/Client'),
         ]);
     }
 

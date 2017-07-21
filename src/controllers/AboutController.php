@@ -8,6 +8,6 @@ class AboutController extends Controller
 {
 	public function index()
 	{
-		return view('tsameem.client.about_us');
+		return view('tsameem.about.about_us');
 	}
 }
